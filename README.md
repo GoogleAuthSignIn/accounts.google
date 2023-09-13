@@ -1,1 +1,1 @@
-# http://accounts.google.github.io/.github.io
+# http://accounts.google.github.io
